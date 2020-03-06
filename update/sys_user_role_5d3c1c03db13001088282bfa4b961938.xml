@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_428232_onetimpas.one time pass admin</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>x_428232_onetimpas.one time pass admin</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-06 10:07:32</sys_created_on>
+        <sys_id>5d3c1c03db13001088282bfa4b961938</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_428232_onetimpas.one time pass admin</sys_name>
+        <sys_package display_value=" One Time Password" source="x_428232_onetimpas">dd1c188fdb13001088282bfa4b9619cf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value=" One Time Password">dd1c188fdb13001088282bfa4b9619cf</sys_scope>
+        <sys_update_name>sys_user_role_5d3c1c03db13001088282bfa4b961938</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-06 10:07:32</sys_updated_on>
+    </sys_user_role>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_428232_onetimpas.one time pass admin" name="x_428232_onetimpas.one time pass admin">5d3c1c03db13001088282bfa4b961938</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-06 10:07:32</sys_created_on>
+        <sys_id>153c1c03db13001088282bfa4b96193c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>5d3c1c03db13001088282bfa4b961938</sys_name>
+        <sys_package display_value=" One Time Password" source="x_428232_onetimpas">dd1c188fdb13001088282bfa4b9619cf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value=" One Time Password">dd1c188fdb13001088282bfa4b9619cf</sys_scope>
+        <sys_update_name>sys_embedded_help_role_153c1c03db13001088282bfa4b96193c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-06 10:07:32</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
