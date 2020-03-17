@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>One Time Password - IT Support &amp; Access Management</description>
+        <device_type>browser</device_type>
+        <hint>One Time Password - IT Support &amp; Access Management</hint>
+        <name/>
+        <order/>
+        <roles>x_428232_onetimpas.one time pass admin</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-06 10:08:21</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1d6cd48fdb13001088282bfa4b9619d2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name> One Time Password</sys_name>
+        <sys_overrides/>
+        <sys_package display_value=" One Time Password" source="x_428232_onetimpas">dd1c188fdb13001088282bfa4b9619cf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value=" One Time Password">dd1c188fdb13001088282bfa4b9619cf</sys_scope>
+        <sys_update_name>sys_app_application_1d6cd48fdb13001088282bfa4b9619d2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-06 10:08:21</sys_updated_on>
+        <title> One Time Password</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value=" One Time Password">dd1c188fdb13001088282bfa4b9619cf</application>
+        <file_path/>
+        <instance_id>4fd0fd01db6f93c43353f22ebf961973</instance_id>
+        <instance_name>dev67056</instance_name>
+        <name>sys_app_application_1d6cd48fdb13001088282bfa4b9619d2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="">Custom Applications</category><description>One Time Password - IT Support &amp; Access Management</description><device_type>browser</device_type><hint>One Time Password - IT Support &amp; Access Management</hint><name/><order/><roles>x_428232_onetimpas.one time pass admin</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-06 10:08:21</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>1d6cd48fdb13001088282bfa4b9619d2</sys_id><sys_mod_count>0</sys_mod_count><sys_name> One Time Password</sys_name><sys_overrides/><sys_package display_value=" One Time Password" source="x_428232_onetimpas">dd1c188fdb13001088282bfa4b9619cf</sys_package><sys_policy/><sys_scope display_value=" One Time Password">dd1c188fdb13001088282bfa4b9619cf</sys_scope><sys_update_name>sys_app_application_1d6cd48fdb13001088282bfa4b9619d2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-06 10:08:21</sys_updated_on><title> One Time Password</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>347317357</payload_hash>
+        <record_name> One Time Password</record_name>
+        <reverted_from/>
+        <source>111cd0cfdb13001088282bfa4b9619e6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-06 10:08:21</sys_created_on>
+        <sys_id>996cd48fdb13001088282bfa4b9619d5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170af513d790000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-06 10:08:21</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>d16cd48f98130010deb52e82e13cfdd5</update_guid>
+        <update_guid_history>d16cd48f98130010deb52e82e13cfdd5:347317357</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value=" One Time Password">c0880730db63401088282bfa4b96191e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-12 09:09:39</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>ba1620bab3a14a0c9548bccd93817359</sys_id>
+        <sys_metadata>1d6cd48fdb13001088282bfa4b9619d2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name> One Time Password</sys_name>
+        <sys_package display_value=" One Time Password" source="x_428232_onetimpas">dd1c188fdb13001088282bfa4b9619cf</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value=" One Time Password">dd1c188fdb13001088282bfa4b9619cf</sys_scope>
+        <sys_scope_delete display_value="">3fb0055813df48809fb49c7141ba4000</sys_scope_delete>
+        <sys_update_name>sys_app_application_1d6cd48fdb13001088282bfa4b9619d2</sys_update_name>
+        <sys_update_version display_value="sys_app_application_1d6cd48fdb13001088282bfa4b9619d2">996cd48fdb13001088282bfa4b9619d5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-12 09:09:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
